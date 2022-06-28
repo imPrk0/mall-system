@@ -22,3 +22,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Instructions for Use
 
 The use of this open source project (software) shall not be used to violate the laws and regulations of the local country. All problems (including but not limited to violations of laws and regulations, server security loopholes, etc.) arising from the use of this open source project (software) shall be borne by the user! The author does not take any responsibility!
+
+## Software Description
+
+An efficient and concise mall software. Can help you sell the product perfectly. We support a variety of payment interfaces, and also support custom payment interfaces. It perfectly solves the problem of global payment.
+
+## Commercial Version
+
