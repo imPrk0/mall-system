@@ -29,3 +29,12 @@ An efficient and concise mall software. Can help you sell the product perfectly.
 
 ## Commercial Version
 
+We have divided the system into two versions. The first is the personal version (open source version), which is the open source project on this page. The second is the commercial version, which supports multi-merchant functions, and supports items such as merchant registration and settlement. The personal version belongs to your own store, and the commercial version belongs to an Amazon store.
+
+The commercial version is of course a paid item! Our subscriptions are lifetime, which means you only need to buy them once. Price system table:
+
+| currency             | country    | price         |
+| :------------------: | :--------: | ------------: |
+| Chinese Yuan         | China      | ￥10,000.00    |
+| United States Dollar | US         | $1,500.00     |
+| New Taiwan dollar    | Taiwan     | $45,000.00    |
