@@ -9,7 +9,7 @@
 <a href="https://github.com/BiliPrk/mall-system/wiki">Document</a>
 </p>
 
-# Open Source License
+## Open Source License
 
 Copyright © 2022 [Prk](https://imprk.me)
 
@@ -19,6 +19,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# Instructions for Use
+## Instructions for Use
 
 The use of this open source project (software) shall not be used to violate the laws and regulations of the local country. All problems (including but not limited to violations of laws and regulations, server security loopholes, etc.) arising from the use of this open source project (software) shall be borne by the user! The author does not take any responsibility!
